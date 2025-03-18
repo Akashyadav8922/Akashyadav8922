@@ -3,7 +3,7 @@
 -🌱 I’m currently diving deeper into data science and sharpening my skills.
 -💞️ Collaboration: Always open to working on innovative data-driven projects, creating interactive Power BI dashboards, or tackling coding challenges.
 🖥️ Programming Languages:C,C++,Python,SQL.
-- 📫 Reach me at:email-akash621221@gmail.com
+- 📫 Reach me at:akash621221@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can brainstorm quirky AI jokes faster than you can say "machine learning"!.
 <!---
