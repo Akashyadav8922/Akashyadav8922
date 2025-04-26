@@ -9,7 +9,7 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 - 🧠 Always learning something new — from **creative problem solving** to **deep tech**.
 - 🔭 Currently working on **out-of-the-box projects**.
 - 🎯 Goals: **Innovation, Impact, and Growth**.
-- 🌱 Exploring: **AI**, **Full-stack Development**, **Open Source Contributions**.
+- 🌱 Exploring: **AI**, **Full-stack Development**, **Open Source Contributions**, **Power BI**, **Data Analytics**, and **Big Data**.
 - 📬 Connect with me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akash-yadav-37088324b)  
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-handle)  
@@ -20,7 +20,7 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 ## 🏆 Competitive Programming Profiles
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-orange?style=flat-square&logo=codechef)](https://www.codechef.com/users/akash4400)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/akash6212/)
-<!-- Waiting for your LeetCode username to add it here too! -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/Akash8922/)
 
 ---
 
@@ -28,6 +28,8 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 ![Languages](https://img.shields.io/badge/Code-Python%20%7C%20JavaScript%20%7C%20C++-informational?style=flat&logo=codewars&color=yellow)
 ![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Node.js%20%7C%20Express-informational?style=flat&logo=react&color=brightgreen)
 ![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20VSCode%20%7C%20Figma-informational?style=flat&logo=git&color=orange)
+![BI](https://img.shields.io/badge/Tools-Power%20BI-blue?style=flat-square&logo=powerbi)
+![BigData](https://img.shields.io/badge/Big%20Data-%20Hadoop%20%7C%20Spark%20%7C%20NoSQL-informational?style=flat-square&logo=apachehadoop)
 
 ---
 
