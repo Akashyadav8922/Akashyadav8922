@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Akash Yadav 👋
 
 Welcome to my GitHub!  
 I love **innovative thinking**, **building impactful projects**, and **learning cutting-edge technologies**.
