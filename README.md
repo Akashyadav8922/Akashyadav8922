@@ -10,7 +10,17 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 - 🔭 Currently working on **out-of-the-box projects**.
 - 🎯 Goals: **Innovation, Impact, and Growth**.
 - 🌱 Exploring: **AI**, **Full-stack Development**, **Open Source Contributions**.
-- 📬 Connect with me: [LinkedIn](your-linkedin) • [Twitter](your-twitter) • [Email](mailto:your-email@example.com)
+- 📬 Connect with me:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akash-yadav-37088324b)  
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-handle)  
+  [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+
+---
+
+## 🏆 Competitive Programming Profiles
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-orange?style=flat-square&logo=codechef)](https://www.codechef.com/users/akash4400)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/akash6212/)
+<!-- Waiting for your LeetCode username to add it here too! -->
 
 ---
 
@@ -23,8 +33,8 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkashYadavOfficial&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashYadavOfficial&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -42,7 +52,7 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 
 ## 🛡️ GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=radical&no-frame=true&margin-w=30" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AkashYadavOfficial&theme=radical&no-frame=true&margin-w=30" />
 </p>
 
 ---
