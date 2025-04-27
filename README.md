@@ -61,11 +61,11 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 ## 📜 Certificates
 | Certificate | Link |
 | :--- | :--- |
-| Rethink Ideathon | [View Certificate](https://drive.google.com/drive/u/0/folders/1IAtE-6MUcu8GdIJKL8GBaxDf5tCLSQQa) |
-| Prod-E-G Hackathon | [View Certificate](#) |
-| Parul Hack Verse | [View Certificate](#) |
-| Placement Apti | [View Certificate](#) |
-| WebBuzz Hackathon | [View Certificate](#) |
+| Rethink Ideathon | 
+| Prod-E-G Hackathon |
+| Parul Hack Verse | 
+| Placement Apti | 
+| WebBuzz Hackathon | 
 
 > ⚡ **Upload your certificates to Google Drive / GitHub and paste the public link here.**
 
