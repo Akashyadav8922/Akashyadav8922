@@ -63,6 +63,7 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 | :--- | :--- | :--- |
 | **Data Analytics** | GUVI & HCL | ✅ Certified |
 | **Big Data** | GUVI & HCL | ✅ Certified |
+| **CSS Course** | Great Learning | ✅ Certified |
 | Rethink Ideathon | - | ✅ Participated |
 | Prod-E-G Hackathon | - | ✅ Participated |
 | Parul Hack Verse | - | ✅ Participated |
