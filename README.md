@@ -67,22 +67,7 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 | Placement Apti | 
 | WebBuzz Hackathon | 
 
-> ⚡ **Upload your certificates to Google Drive / GitHub and paste the public link here.**
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash8922&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash8922&layout=compact&theme=radical" />
-</div>
-
----
-
-## 🛡️ GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akash8922&theme=radical&no-frame=true&margin-w=30" />
-</p>
+> 
 
 ---
 
