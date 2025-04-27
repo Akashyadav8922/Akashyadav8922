@@ -59,13 +59,32 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 ---
 
 ## 📜 Certificates
-| Rethink Ideathon | 
-| Prod-E-G Hackathon |
-| Parul Hack Verse | 
-| Placement Apti | 
-| WebBuzz Hackathon | 
+| Certificate Name | Issued By | Status |
+| :--- | :--- | :--- |
+| **Data Analytics** | GUVI & HCL | ✅ Certified |
+| **Big Data** | GUVI & HCL | ✅ Certified |
+| Rethink Ideathon | - | ✅ Participated |
+| Prod-E-G Hackathon | - | ✅ Participated |
+| Parul Hack Verse | - | ✅ Participated |
+| Placement Apti Challenge | - | ✅ Participated |
+| WebBuzz Hackathon | - | ✅ Participated |
 
-> 
+> 📝 Certificates are linked above.
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash8922&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash8922&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🛡️ GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akash8922&theme=radical&no-frame=true&margin-w=30" />
+</p>
 
 ---
 
