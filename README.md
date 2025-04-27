@@ -9,49 +9,80 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 - 🧠 Always learning something new — from **creative problem solving** to **deep tech**.
 - 🔭 Currently working on **out-of-the-box projects**.
 - 🎯 Goals: **Innovation, Impact, and Growth**.
-- 🌱 Exploring: **AI**, **Full-stack Development**, **Power BI**, **Data Analytics**, **Big Data**, and **Open Source Contributions**.
-- 📬 Connect with me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akash-yadav-37088324b)  
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-handle)  
-  [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
-
----
-
-## 🏆 Competitive Programming Profiles
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-orange?style=flat-square&logo=codechef)](https://www.codechef.com/users/akash4400)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/akash6212/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/Akash8922/)
+- 🌱 Exploring: **AI**, **Full-stack Development**, **Data Analytics**, **Big Data**, **Open Source Contributions**.
+- 📬 Connect with me: 
+  - [LinkedIn](https://www.linkedin.com/in/akash-yadav-37088324b)
+  - [LeetCode](https://leetcode.com/Akash8922/)
+  - [CodeChef](https://www.codechef.com/users/akash4400)
+  - [GFG](https://www.geeksforgeeks.org/user/akash6212/)
 
 ---
 
 ## 🛠️ My Tech Stack
-- **Languages:**  
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Languages](https://img.shields.io/badge/Code-Python%20%7C%20JavaScript%20%7C%20C++-informational?style=flat&logo=codewars&color=yellow)
+![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Node.js%20%7C%20Express-informational?style=flat&logo=react&color=brightgreen)
+![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20VSCode%20%7C%20Figma-informational?style=flat&logo=git&color=orange)
+![Data Tools](https://img.shields.io/badge/Data-PowerBI%20%7C%20SQL%20%7C%20Big%20Data-informational?style=flat&logo=tableau&color=blue)
 
-- **Frameworks and Libraries:**  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+---
 
-- **Tools and Platforms:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 📈 Projects
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| 📊 Power BI Sales Dashboard | Built a dynamic Power BI dashboard to analyze sales performance, regional trends, and KPIs. | Power BI, Data Analytics | `Deployed 🔥` |
+| 🚕 Ola Data Analysis Dashboard | Created an interactive Power BI dashboard to visualize Ola ride data: trips, cities, customer trends, and revenue analytics. | Power BI, Data Analytics | `Business Insights 📊` |
+| 🛒 Blinkit Order Analysis Dashboard | Designed a dashboard in Power BI for Blinkit, analyzing product categories, order trends, customer behavior across regions. | Power BI, Business Intelligence | `Real-Time Dashboard ⚡` |
+| 🎬 Netflix Landing Page Clone | Developed a fully responsive Netflix homepage clone using HTML5 and CSS3. | HTML5, CSS3 | `Responsive 📱` |
+| 🏥 Hospital Management Website + Analysis | Created a Hospital Website using HTML, CSS, JavaScript, and SQL. Used Power BI for analyzing diseases and cities. | HTML5, CSS3, JavaScript, SQL, Power BI | `Full-stack Project 🚀` |
 
-- **Data Tools:**  
-  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-  ![Big Data](https://img.shields.io/badge/Big%20Data-Hadoop%20%7C%20Spark%20%7C%20NoSQL-blueviolet?style=for-the-badge)  
-  ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights-green?style=for-the-badge)
+---
+
+## 🏅 Achievements & Participations
+| Event | Organizer |
+| :--- | :--- |
+| 🏆 Rethink Ideathon | IIT Hyderabad |
+| 💡 Prod-E-G Hackathon | L'Aventure DSEU |
+| 🚀 Parul Hack Verse | Parul University |
+| 🎯 Placement Apti Challenge | - |
+| 🌐 Hackathon WebBuzz - Web Development Challenge | Cybercage |
+
+---
+
+## 🎖️ Hackathon Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Hackathon-IITHyderabad-blueviolet?style=flat-square">
+  <img src="https://img.shields.io/badge/Hackathon-DSEU-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Hackathon-ParulHackVerse-green?style=flat-square">
+  <img src="https://img.shields.io/badge/WebBuzz-Cybercage-blue?style=flat-square">
+</p>
+
+---
+
+## 📜 Certificates
+| Certificate | Link |
+| :--- | :--- |
+| Rethink Ideathon | [View Certificate](#) |
+| Prod-E-G Hackathon | [View Certificate](#) |
+| Parul Hack Verse | [View Certificate](#) |
+| Placement Apti | [View Certificate](#) |
+| WebBuzz Hackathon | [View Certificate](#) |
+
+> ⚡ **Upload your certificates to Google Drive / GitHub and paste the public link here.**
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkashYadavOfficial&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashYadavOfficial&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash8922&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash8922&layout=compact&theme=radical" />
 </div>
+
+---
+
+## 🛡️ GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akash8922&theme=radical&no-frame=true&margin-w=30" />
+</p>
 
 ---
 
@@ -60,20 +91,7 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 
 ---
 
-## 📣 Latest Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 🛡️ GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkashYadavOfficial&theme=radical&no-frame=true&margin-w=30" />
-</p>
-
----
-
 ## 💬 Let's Collaborate
-> **Open to teaming up on creative, impactful, and game-changing projects!**
+> **Open to teaming up on creative, impactful, and game-changing projects! 🚀**
 
 ---
