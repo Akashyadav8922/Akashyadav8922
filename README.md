@@ -59,8 +59,6 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 ---
 
 ## 📜 Certificates
-| Certificate | Link |
-| :--- | :--- |
 | Rethink Ideathon | 
 | Prod-E-G Hackathon |
 | Parul Hack Verse | 
