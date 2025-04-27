@@ -73,7 +73,27 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 
 ---
 
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash8922&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash8922&layout=compact&theme=radical" />
+</div>
 
+---
+
+## 🛡️ GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akash8922&theme=radical&no-frame=true&margin-w=30" />
+</p>
+
+---
+
+## 🎯 CodeChef 100 Days Streak
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeChef-100%20Days%20Coding%20Streak-green?style=flat-square">
+</p>
+
+---
 
 ## 🧩 Fun Fact
 > **"Creative ideas are the currency of the future — keep innovating!"**
