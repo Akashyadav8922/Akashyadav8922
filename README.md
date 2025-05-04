@@ -15,6 +15,7 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
   - [LeetCode](https://leetcode.com/Akash8922/)
   - [CodeChef](https://www.codechef.com/users/akash4400)
   - [GFG](https://www.geeksforgeeks.org/user/akash6212/)
+  - [HackerRank](https://www.hackerrank.com/yaduvanshi965169)
 
 ---
 
@@ -58,18 +59,30 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 
 ---
 
-## 📜 Certificates
+## 📜 Certificates & Milestones
 | Certificate Name | Issued By | Status |
 | :--- | :--- | :--- |
 | **Data Analytics** | GUVI & HCL | ✅ Certified |
 | **Big Data** | GUVI & HCL | ✅ Certified |
 | **CSS Course** | Great Learning | ✅ Certified |
 | **500 Questions Solved** | CodeChef | ✅ Certified |
+| **C++ (5⭐)** | HackerRank | ✅ Certified |
+| **SQL (4⭐)** | HackerRank | ✅ Certified |
+| **Python (4⭐)** | HackerRank | ✅ Certified |
 | Rethink Ideathon | - | ✅ Participated |
 | Prod-E-G Hackathon | - | ✅ Participated |
 | Parul Hack Verse | - | ✅ Participated |
 | Placement Apti Challenge | - | ✅ Participated |
 | WebBuzz Hackathon | - | ✅ Participated |
+
+---
+
+## 🧠 HackerRank Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-C++%20(5%20Star)-brightgreen?style=flat-square&logo=hackerrank">
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20(4%20Star)-blue?style=flat-square&logo=hackerrank">
+  <img src="https://img.shields.io/badge/HackerRank-Python%20(4%20Star)-yellow?style=flat-square&logo=hackerrank">
+</p>
 
 ---
 
