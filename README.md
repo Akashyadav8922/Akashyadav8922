@@ -64,19 +64,21 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 | **Data Analytics** | GUVI & HCL | ✅ Certified |
 | **Big Data** | GUVI & HCL | ✅ Certified |
 | **CSS Course** | Great Learning | ✅ Certified |
+| **500 Questions Solved** | CodeChef | ✅ Certified |
 | Rethink Ideathon | - | ✅ Participated |
 | Prod-E-G Hackathon | - | ✅ Participated |
 | Parul Hack Verse | - | ✅ Participated |
 | Placement Apti Challenge | - | ✅ Participated |
 | WebBuzz Hackathon | - | ✅ Participated |
 
-> 📝 Certificates are linked above.
+
 
 ---
 
-## 🎯 CodeChef 100 Days Streak
+## 🎯 Coding Streaks
 <p align="center">
   <img src="https://img.shields.io/badge/CodeChef-100%20Days%20Coding%20Streak-green?style=flat-square">
+  <img src="https://img.shields.io/badge/GFG-100%20Days%20Coding%20Streak-brightgreen?style=flat-square">
 </p>
 
 ---
@@ -88,5 +90,3 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 
 ## 💬 Let's Collaborate
 > **Open to teaming up on creative, impactful, and game-changing projects! 🚀**
-
----
