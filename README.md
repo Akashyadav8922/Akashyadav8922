@@ -78,7 +78,7 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 ## 🎯 Coding Streaks
 <p align="center">
   <img src="https://img.shields.io/badge/CodeChef-100%20Days%20Coding%20Streak-green?style=flat-square">
-  <img src="https://img.shields.io/badge/GFG-100%20Days%20Coding%20Streak-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/GFG-105%20Days%20Coding%20Streak-brightgreen?style=flat-square">
 </p>
 
 ---
