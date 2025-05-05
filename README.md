@@ -21,7 +21,7 @@ I love **innovative thinking**, **building impactful projects**, and **learning 
 
 ## 🛠️ My Tech Stack
 ![Languages](https://img.shields.io/badge/Code-Python%20%7C%20JavaScript%20%7C%20C++-informational?style=flat&logo=codewars&color=yellow)  
-![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Node.js%20%7C%20Express%20%7C%20HTML%20%7C%20CSS-informational?style=flat&logo=react&color=brightgreen)  
+![Frameworks](https://img.shields.io/badge/Frameworks-HTML%20%7C%20CSS-informational?style=flat&logo=react&color=brightgreen)  
 ![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20VSCode%20%7C%20Figma-informational?style=flat&logo=git&color=orange)  
 ![Data Tools](https://img.shields.io/badge/Data-PowerBI%20%7C%20SQL%20%7C%20Big%20Data-informational?style=flat&logo=tableau&color=blue)
 
