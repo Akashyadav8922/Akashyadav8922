@@ -1,7 +1,7 @@
 # Hi there, I'm Akash Yadav 👋
 
 Welcome to my GitHub!  
-I love **innovative thinking**, **building impactful projects**, and **learning cutting-edge technologies**.
+I am currently pursuing a Bachelor of Technology at Maharana Pratap Engineering College, with graduation expected in 2026. Throughout my academic journey, I have explored and worked with a wide range of technologies, including Big Data, Python, C, C++, HTML/CSS, JavaScript, SQL, and Power BI. My passion for learning and building has allowed me to develop a solid foundation in both software development and data analysis. Beyond technical skills, I take pride in my problem-solving abilities, which enable me to approach challenges with creativity and efficiency.
 
 ---
 
