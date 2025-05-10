@@ -123,4 +123,10 @@ Welcome to my GitHub!
 
 ## 🤝 Let's Collaborate  
 > 🚀 *I'm open to working on exciting, impactful, and game-changing tech projects. Let's build something awesome together!*
+> <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://your-repo-url/assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://your-repo-url/assets/banner-light.png">
+  <img alt="Banner" src="https://your-repo-url/assets/banner-light.png">
+</picture>
+
 
