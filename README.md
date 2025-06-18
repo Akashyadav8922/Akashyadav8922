@@ -1,131 +1,132 @@
-Here's your **complete GitHub Profile README.md code** with:
+# 👋 Hi there, I'm Akash Yadav  
 
-✅ **UI/UX added under Skills**
-✅ **Figma added under Tools/Technologies**
-✅ All previous content preserved and integrated
-
----
-
-```markdown
-# Hi there, I'm Akash Yadav 👋
-
-Welcome to my GitHub!  
-I am currently pursuing a Bachelor of Technology at Maharana Pratap Engineering College, with graduation expected in 2026. Throughout my academic journey, I have explored and worked with a wide range of technologies, including Big Data, Python, C, C++, HTML/CSS, JavaScript, SQL, and Power BI. My passion for learning and building has allowed me to develop a solid foundation in both software development and data analysis. Beyond technical skills, I take pride in my problem-solving abilities, which enable me to approach challenges with creativity and efficiency.
+🎓 **B.Tech Student | 2026 Batch**  
+💡 Passionate about **Data, Development & Design**
 
 ---
 
-## 🚀 About Me
-- 🧠 Always learning something new — from **creative problem solving** to **deep tech**.
-- 🔭 Currently working on **out-of-the-box projects**.
-- 🎯 Goals: **Innovation, Impact, and Growth**.
-- 🌱 Exploring: **AI**, **Full-stack Development**, **Data Analytics**, **Big Data**, **Open Source Contributions**.
-- 📬 Connect with me: 
-  - [LinkedIn](https://www.linkedin.com/in/akash-yadav-37088324b)
-  - [LeetCode](https://leetcode.com/Akash8922/)
-  - [CodeChef](https://www.codechef.com/users/akash4400)
-  - [GFG](https://www.geeksforgeeks.org/user/akash6212/)
-  - [HackerRank](https://www.hackerrank.com/yaduvanshi965169)
+## 🔗 Quick Links  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-yadav-37088324b)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/Akash8922/)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-User%20Profile-blueviolet?style=flat-square&logo=codechef)](https://www.codechef.com/users/akash4400)  
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-User%20Profile-brightgreen?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/akash6212/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-darkgreen?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/yaduvanshi965169)
 
 ---
 
-## 🛠️ My Tech Stack
+<details>
+<summary>🚀 <strong>About Me</strong></summary>
 
-### 💻 Languages & Frameworks  
-![Languages](https://img.shields.io/badge/Code-Python%20%7C%20JavaScript%20%7C%20C++-informational?style=flat&logo=codewars&color=yellow)  
-![Frameworks](https://img.shields.io/badge/Frameworks-HTML%20%7C%20CSS-informational?style=flat&logo=react&color=brightgreen)
+- 🎓 **Student at Maharana Pratap Engineering College**  
+- 🌱 Currently exploring **AI**, **Full-Stack Dev**, **Big Data**, and **Data Analytics**
+- 🛠 Love solving problems and building impactful projects
+- 💬 Open to collaboration and open-source contributions
 
-### 🧰 Tools & Technologies  
-![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20VSCode%20%7C%20Figma-informational?style=flat&logo=git&color=orange)  
-![Data Tools](https://img.shields.io/badge/Data-PowerBI%20%7C%20SQL%20%7C%20Big%20Data%20%7C%20Data%20Modeling-informational?style=flat&logo=tableau&color=blue)
-
-### 🎨 UI/UX  
-![UI/UX](https://img.shields.io/badge/Skill-UI%2FUX%20Design-purple?style=flat&logo=figma)  
-![Figma](https://img.shields.io/badge/Tool-Figma-orange?style=flat-square&logo=figma)
+</details>
 
 ---
 
-## 📈 Projects
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| 📊 Power BI Sales Dashboard | Built a dynamic Power BI dashboard to analyze sales performance, regional trends, and KPIs. | Power BI, Data Analytics | Deployed 🔥 |
-| 🚕 Ola Data Analysis Dashboard | Created an interactive Power BI dashboard to visualize Ola ride data: trips, cities, customer trends, and revenue analytics. | Power BI, Data Analytics | Business Insights 📊 |
-| 🛒 Blinkit Order Analysis Dashboard | Designed a dashboard in Power BI for Blinkit, analyzing product categories, order trends, customer behavior across regions. | Power BI, Business Intelligence | Real-Time Dashboard ⚡ |
-| 🎧 Spotify Clone Page | Developed a responsive clone of Spotify's landing page with a sleek UI using HTML5 and CSS3. | HTML5, CSS3 | Responsive 📱 |
-| 🏥 Hospital Management Website + Analysis | Created a Hospital Website using HTML, CSS, JavaScript, and SQL. Used Power BI for analyzing diseases and cities. | HTML5, CSS3, JavaScript, SQL, Power BI | Full-stack Project 🚀 |
+<details>
+<summary>🛠️ <strong>My Tech Stack</strong></summary>
+
+### 💻 Languages
+`Python` | `JavaScript` | `C++` | `C` | `HTML/CSS` | `SQL`
+
+### 📊 Data & BI Tools  
+Power BI | Big Data | SQL | Excel | Data Modeling
+
+### 🧰 Tools & Frameworks  
+Git | VS Code | Figma | Canva | Adobe XD
+
+### 🌐 Frontend  
+HTML5 | CSS3 | JS | Responsive Web Design
+
+### 🧠 Others  
+Problem Solving | UI/UX Design | Wireframing | Prototyping
+
+</details>
 
 ---
 
-## 🎨 UI/UX & Design
+<details>
+<summary>📈 <strong>Featured Projects</strong></summary>
 
-| Project | Description | Tools Used | Status |
-| :--- | :--- | :--- | :--- |
-| ✨ [Landing Page UI Design (Figma Preview)](https://www.figma.com/proto/ODOIz4MdGeJEvnUTzakxpj/Untitled?page-id=0%3A1&node-id=1-2&p=f&t=Xz6QUzJmqM4Tj2V8-0&scaling=min-zoom&content-scaling=fixed) | Designed a clean and responsive landing page UI using Figma. Focused on layout structure, navigation flow, and visual hierarchy. | Figma | Preview Available 🔗 |
-| 🏥 Hospital Management UX Design | Designed wireframes and user flows for a hospital management system. Prioritized intuitive navigation and data visualization. | Figma, Adobe XD | UI/UX Complete ✅ |
-| 📦 E-Commerce App UI | Crafted interactive prototypes for an online grocery app (Blinkit-inspired). Emphasis on seamless shopping experience and minimal UI. | Figma, Canva | Design Ready 🎯 |
-| 📱 Mobile App Redesign Challenge | Participated in a UI redesign sprint for a health tracking app — focused on improving engagement and usability. | Figma | Sprint Completed 🏁 |
+| Project | Description | Tech Used | Status |
+|--------|-------------|-----------|--------|
+| 📊 **Power BI Sales Dashboard** | Sales performance & KPIs | Power BI | ✅ Deployed |
+| 🚕 **Ola Dashboard** | Ride data analysis | Power BI | 📊 Insightful |
+| 🛒 **Blinkit Order Dashboard** | Product & customer trends | Power BI | ⚡ Real-Time |
+| 🎧 **Spotify Clone Page** | UI clone of landing page | HTML, CSS | 📱 Responsive |
+| 🏥 **Hospital Management Website + Analytics** | Full-stack website + data insights | HTML, JS, SQL, Power BI | 🚀 Full Project |
 
----
-
-### 🛠 UI/UX Tools
-![Figma](https://img.shields.io/badge/Design-Figma-orange?style=flat-square&logo=figma)  
-![Canva](https://img.shields.io/badge/Design-Canva-blue?style=flat-square&logo=canva)  
-![Adobe XD](https://img.shields.io/badge/Design-Adobe%20XD-purple?style=flat-square&logo=adobexd)
+</details>
 
 ---
 
-### ✏️ Design Thinking Focus
-- **User-Centered**: Emphasize intuitive interfaces tailored to end-user needs.
-- **Responsive Design**: Optimized for mobile, tablet, and desktop.
-- **Aesthetic + Functionality**: Balanced clean design with usability.
-- **Wireframes to Prototypes**: Adept in full design workflows — from low-fidelity sketches to interactive prototypes.
+<details>
+<summary>🎨 <strong>UI/UX Design Work</strong></summary>
+
+| Project | Description | Tools | Status |
+|--------|-------------|-------|--------|
+| ✨ [Landing Page UI](https://www.figma.com/proto/ODOIz4MdGeJEvnUTzakxpj/Untitled?page-id=0%3A1&node-id=1-2&p=f&t=Xz6QUzJmqM4Tj2V8-0&scaling=min-zoom&content-scaling=fixed) | Responsive, modern UI | Figma | 🔗 Preview |
+| 🏥 Hospital UX Design | Wireframes & flows | Figma, XD | ✅ Complete |
+| 📦 E-Commerce UI | Online grocery UX | Figma, Canva | 🎯 Ready |
+| 📱 Health App Redesign | UI challenge sprint | Figma | 🏁 Done |
+
+</details>
 
 ---
 
-## 🏅 Achievements & Participations
-| Event | Organizer |
-| :--- | :--- |
+<details>
+<summary>🏆 <strong>Achievements & Hackathons</strong></summary>
+
+| Event | Organization |
+|-------|--------------|
 | 🏆 Rethink Ideathon | IIT Hyderabad |
 | 💡 Prod-E-G Hackathon | L'Aventure DSEU |
 | 🚀 Parul Hack Verse | Parul University |
-| 🎯 Placement Apti Challenge | - |
-| 🌐 Hackathon WebBuzz - Web Development Challenge | Cybercage |
+| 🧠 Aptitude Challenge | - |
+| 🌐 WebBuzz Hackathon | Cybercage |
+
+</details>
 
 ---
 
-## 🎖️ Hackathon Badges
+<details>
+<summary>📜 <strong>Certificates & Milestones</strong></summary>
+
+| Certificate | Issuer | Status |
+|------------|--------|--------|
+| Data Analytics | GUVI & HCL | ✅ Certified |
+| Big Data | GUVI & HCL | ✅ Certified |
+| CSS Course | Great Learning | ✅ Certified |
+| C++ (5⭐) | HackerRank | ✅ |
+| SQL (4⭐) | HackerRank | ✅ |
+| Python (4⭐) | HackerRank | ✅ |
+| Data Analytics Simulation | Deloitte | ✅ |
+| Data Visualization | Tata | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary>📊 <strong>HackerRank Badges</strong></summary>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Hackathon-IITHyderabad-blueviolet?style=flat-square">
-  <img src="https://img.shields.io/badge/Hackathon-DSEU-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Hackathon-ParulHackVerse-green?style=flat-square">
-  <img src="https://img.shields.io/badge/WebBuzz-Cybercage-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/HackerRank-C++%20(5%20Star)-brightgreen?style=flat-square&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20(4%20Star)-blue?style=flat-square&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/HackerRank-Python%20(4%20Star)-yellow?style=flat-square&logo=hackerrank" />
 </p>
 
----
-
-## 📜 Certificates & Milestones
-| Certificate Name | Issued By | Status |
-| :--- | :--- | :--- |
-| **Data Analytics** | GUVI & HCL | ✅ Certified |
-| **Big Data** | GUVI & HCL | ✅ Certified |
-| **CSS Course** | Great Learning | ✅ Certified |
-| **500 Questions Solved** | CodeChef | ✅ Certified |
-| **C++ (5⭐)** | HackerRank | ✅ Certified |
-| **SQL (4⭐)** | HackerRank | ✅ Certified |
-| **Python (4⭐)** | HackerRank | ✅ Certified |
-| **Data Analytics Job Simulation** | Deloitte | ✅ Completed |
-| **Data Visualisation: Empowering Business with Effective Insights** | Tata | ✅ Completed |
-| Rethink Ideathon | - | ✅ Participated |
-| Prod-E-G Hackathon | - | ✅ Participated |
-| Parul Hack Verse | - | ✅ Participated |
-| Placement Apti Challenge | - | ✅ Participated |
-| WebBuzz Hackathon | - | ✅ Participated |
+</details>
 
 ---
 
-## 🧠 HackerRank Achievements
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-C++%20(5%20Star)-brightgreen?style=flat-square&logo=hackerrank">
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20(4%20Star)-blue?style=flat-square&logo=hackerrank">
-  <img src="https://img.shields.io/badge/HackerRank-Python%20(4%20Star)-yellow?style=flat-square&logo=hackerrank">
-</
-```
+### 📫 Reach Out Anytime  
+I’m always open to new ideas, collaboration, and feedback.  
+Let's innovate together!
+
+---
+
+⭐ *Feel free to star or fork my repositories if you find them useful!*
