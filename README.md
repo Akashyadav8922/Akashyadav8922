@@ -69,9 +69,6 @@ Problem Solving | UI/UX Design | Wireframing | Prototyping
 | Project | Description | Tools | Status |
 |--------|-------------|-------|--------|
 | ✨ [Landing Page UI](https://www.figma.com/proto/ODOIz4MdGeJEvnUTzakxpj/Untitled?page-id=0%3A1&node-id=1-2&p=f&t=Xz6QUzJmqM4Tj2V8-0&scaling=min-zoom&content-scaling=fixed) | Responsive, modern UI | Figma | 🔗 Preview |
-| 🏥 Hospital UX Design | Wireframes & flows | Figma, XD | ✅ Complete |
-| 📦 E-Commerce UI | Online grocery UX | Figma, Canva | 🎯 Ready |
-| 📱 Health App Redesign | UI challenge sprint | Figma | 🏁 Done |
 
 </details>
 
