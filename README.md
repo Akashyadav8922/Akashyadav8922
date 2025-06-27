@@ -111,10 +111,17 @@ Problem Solving | UI/UX Design | Wireframing | Prototyping
 <summary>📊 <strong>HackerRank Badges</strong></summary>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-C++%20(5%20Star)-brightgreen?style=flat-square&logo=[hackerrank](https://www.hackerrank.com/profile/yaduvanshi965169)" />
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20(4%20Star)-blue?style=flat-square&logo=hackerrank" />
-  <img src="https://img.shields.io/badge/HackerRank-Python%20(4%20Star)-yellow?style=flat-square&logo=hackerrank" />
+  <a href="https://www.hackerrank.com/profile/yaduvanshi965169">
+    <img src="https://img.shields.io/badge/HackerRank-C++%20(5%20Star)-brightgreen?style=flat-square&logo=hackerrank" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/yaduvanshi965169">
+    <img src="https://img.shields.io/badge/HackerRank-SQL%20(4%20Star)-blue?style=flat-square&logo=hackerrank" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/yaduvanshi965169">
+    <img src="https://img.shields.io/badge/HackerRank-Python%20(4%20Star)-yellow?style=flat-square&logo=hackerrank" />
+  </a>
 </p>
+
 
 </details>
 
