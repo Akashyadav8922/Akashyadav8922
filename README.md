@@ -18,7 +18,7 @@
 <summary>🚀 <strong>About Me</strong></summary>
 
 - 🎓 **Student at Maharana Pratap Engineering College**  
-- 🌱 Currently exploring **AI**, **Full-Stack Dev**, **Big Data**, and **Data Analytics**
+- 🌱 Currently exploring  **Full-Stack Dev**, **Big Data**, and **Data Analytics**
 - 🛠 Love solving problems and building impactful projects
 - 💬 Open to collaboration and open-source contributions
 
@@ -30,13 +30,13 @@
 <summary>🛠️ <strong>My Tech Stack</strong></summary>
 
 ### 💻 Languages
-`Python` | `JavaScript` | `C++` | `C` | `HTML/CSS` | `SQL`
+`Python` | `JavaScript` | `C++` | `C` | `HTML/CSS` | ` My SQL`
 
 ### 📊 Data & BI Tools  
-Power BI | Big Data | SQL | Excel | Data Modeling
+Power BI | Big Data |My SQL | Excel | Data Modeling
 
 ### 🧰 Tools & Frameworks  
-Git | VS Code | Figma | Canva | Adobe XD
+Git | VS Code | Figma | Canva 
 
 ### 🌐 Frontend  
 HTML5 | CSS3 | JS | Responsive Web Design
@@ -53,7 +53,8 @@ Problem Solving | UI/UX Design | Wireframing | Prototyping
 
 | Project | Description | Tech Used | Status |
 |--------|-------------|-----------|--------|
-| 📊 **Power BI Sales Dashboard** | Sales performance & KPIs | Power BI | ✅ Deployed |
+| 📊 **Power BI Dashboard** | Sales performance | Power BI|
+| 📊 **Sales Dashboard** | Sales Data Analysis | Power BI | 📊 Insightful |
 | 🚕 **Ola Dashboard** | Ride data analysis | Power BI | 📊 Insightful |
 | 🛒 **Blinkit Order Dashboard** | Product & customer trends | Power BI | ⚡ Real-Time |
 | 🎧 **Spotify Clone Page** | UI clone of landing page | HTML, CSS | 📱 Responsive |
@@ -82,7 +83,6 @@ Problem Solving | UI/UX Design | Wireframing | Prototyping
 | 🏆 Rethink Ideathon | IIT Hyderabad |
 | 💡 Prod-E-G Hackathon | L'Aventure DSEU |
 | 🚀 Parul Hack Verse | Parul University |
-| 🧠 Aptitude Challenge | - |
 | 🌐 WebBuzz Hackathon | Cybercage |
 
 </details>
@@ -101,7 +101,6 @@ Problem Solving | UI/UX Design | Wireframing | Prototyping
 | SQL (4⭐) | HackerRank | ✅ |
 | Python (4⭐) | HackerRank | ✅ |
 | Data Analytics Simulation | Deloitte | ✅ |
-| Data Visualization | Tata | ✅ |
 
 </details>
 
