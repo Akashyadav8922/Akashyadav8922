@@ -54,15 +54,17 @@ Problem Solving | UI/UX Design | Wireframing | Prototyping
 
 | Project | Description | Tech Used | Status |
 |--------|-------------|-----------|--------|
-| 📊 **Power BI Dashboard** | Sales performance | Power BI | |
-| 📊 **Sales Dashboard** | Sales Data Analysis | Power BI | 📊 Insightful |
-| 🚕 **Ola Dashboard** | Ride data analysis | Power BI | 📊 Insightful |
-| 🛒 **Blinkit Order Dashboard** | Product & customer trends | Power BI | ⚡ Real-Time |
-| 🎧 **Spotify Clone Page** | UI clone of landing page | HTML, CSS | 📱 Responsive |
-| 🏥 **Hospital Management Website + Analytics** | Full-stack website + data insights | HTML, JS, SQL, Power BI | 🚀 Full Project |
-| 💻 **Job Postings Web Scraper** | Scraped job postings from online portals; cleaned and structured data for analysis | Python, BeautifulSoup, Pandas, CSV | 🚀 Completed |
+| 📊 Power BI Dashboard | Sales performance | Power BI | Completed |
+| 📊 Sales Dashboard | Sales Data Analysis | Power BI | Insightful |
+| 🚕 Ola Dashboard | Ride data analysis | Power BI | Insightful |
+| 🛒 Blinkit Order Dashboard | Product & customer trends | Power BI | Real-Time |
+| 🎧 Spotify Clone Page | UI clone of landing page | HTML, CSS | Responsive |
+| 🏥 Hospital Management Website + Analytics | Full-stack website + data insights | HTML, JS, SQL, Power BI | Full Project |
+| 💻 Job Postings Web Scraper | Scraped job postings; cleaned and structured data | Python, BeautifulSoup, Pandas, CSV | Completed |
+| ⌨️ Typing Speed Test | Python console program to test typing speed and accuracy | Python | Completed |
 
 </details>
+
 
 ---
 
